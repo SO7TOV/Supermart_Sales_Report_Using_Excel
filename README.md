@@ -1,6 +1,6 @@
 # Supermart_Sales_Report_Using_Excel
 
-The following steps are domne on this project
+The following steps are done on this project
 
 1- Sourced Data from kaggle
 
